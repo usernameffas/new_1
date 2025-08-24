@@ -4,7 +4,7 @@
 분석 대상: mission_computer_main.log
 
 1. 개요
-화성 기지 폭발 사고 후 미션 컴퓨터의 로그 파일을 분석하여 사고 원인을 파악하였다. 로그 데이터는 CSV 형태로 timestamp, event, message 컬럼으로 구성되어 있다./n
+화성 기지 폭발 사고 후 미션 컴퓨터의 로그 파일을 분석하여 사고 원인을 파악하였다. 로그 데이터는 CSV 형태로 timestamp, event, message 컬럼으로 구성되어 있다.
 
 2. 로그 분석 결과
 2.1 미션 진행 과정
