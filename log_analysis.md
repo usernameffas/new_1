@@ -1,7 +1,7 @@
 화성 기지 사고 원인 분석 보고서
 분석자: 화성 식물학자
 분석일: 2025년 08월 24일
-분석 대상: mission_computer_main (1).log
+분석 대상: mission_computer_main.log
 
 1. 개요
 화성 기지 폭발 사고 후 미션 컴퓨터의 로그 파일을 분석하여 사고 원인을 파악하였다. 로그 데이터는 CSV 형태로 timestamp, event, message 컬럼으로 구성되어 있다.
